@@ -21,5 +21,3 @@ pub fn next_chunk(buf: &mut MultiBuf) -> &[u8] {
     buf.pos += 1;
     next.map_or(&[], Vec::as_slice)
 }
-
-
