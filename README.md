@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./.github/assets/research.jpg" alt="GitHub Research" align="center">
+    <img src="./.github/assets/research.jpg" alt="GitHub Research" height="400" align="center">
 </p>
 
 <h1 align="center">Experiments of Uzinfocom</h1>
