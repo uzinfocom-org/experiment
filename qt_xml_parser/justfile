@@ -1,0 +1,10 @@
+#!/usr/bin/env just --justfile
+
+release:
+    cmake -S . -B release -D CMAKE_BUILD_TYPE=Release
+    cmake --build release
+
+debug:
+    cmake -S . -B debug -D CMAKE_BUILD_TYPE=Debug
+    cmake --build debug
+    ./debug/xmlparser

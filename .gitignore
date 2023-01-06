@@ -11,3 +11,9 @@ Cargo.lock
 
 # IDEA configs
 .idea
+qt_xml_parser/CMakeCache.txt
+qt_xml_parser/cmake_install.cmake
+qt_xml_parser/CMakeFiles
+qt_xml_parser/debug
+qt_xml_parser/release
+qt_xml_parser/Makefile
